@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/components/TestView.cs">
+    <Files>
+      <File FileName="Assets/scripts/SignalsRoot.cs" Line="4" Column="21" />
+      <File FileName="Assets/scripts/systems/AEntitySystem.cs" Line="14" Column="3" />
+      <File FileName="Assets/scripts/controller/StartCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/systems/SystemManagerMediator.cs" Line="17" Column="3" />
+      <File FileName="Assets/scripts/SignalsContext.cs" Line="26" Column="20" />
+      <File FileName="Assets/scripts/systems/SystemManagerView.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/systems/SingleEntitySystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/systems/PairEntitySystem.cs" Line="25" Column="10" />
+      <File FileName="Assets/scripts/systems/TestSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/components/TestView.cs" Line="24" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

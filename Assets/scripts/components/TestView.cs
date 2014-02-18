@@ -18,8 +18,8 @@ namespace strange.examples.signals
             Debug.Log("clicking the text");
 
             //put the new entity in the world
-            GameObject prefabToMake = (GameObject)Resources.Load("prefabs/textTest");
-            GameObject newEntity = (GameObject)GameObject.Instantiate(prefabToMake, prefabToMake.transform.position - 2*(Vector3.up), Quaternion.identity);
+            GameObject prefabToMake = (GameObject)Resources.Load("textField");
+            GameObject newEntity = (GameObject)GameObject.Instantiate(prefabToMake, this.transform.position - 2*(Vector3.up), Quaternion.identity);
             newEntity.transform.parent = GameObject.Find("Entities").transform;
 
             entitiesChangedSignal.Dispatch();
